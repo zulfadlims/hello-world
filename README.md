@@ -1,5 +1,5 @@
 # hello-world
 trial
 
-Hi there
-Mixed rice for today
+Hi there.
+Mixed rice for today.
